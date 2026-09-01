@@ -1,0 +1,1 @@
+Projeto para testes de práticas em aulas de html/css usando o versionamento pelo GIT
